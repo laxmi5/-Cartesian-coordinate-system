@@ -1,0 +1,15 @@
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\net6.0\CartesianCoordinateSystem.exe
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\net6.0\CartesianCoordinateSystem.deps.json
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\net6.0\CartesianCoordinateSystem.runtimeconfig.json
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\net6.0\CartesianCoordinateSystem.dll
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\net6.0\CartesianCoordinateSystem.pdb
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.csproj.AssemblyReference.cache
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.AssemblyInfoInputs.cache
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.AssemblyInfo.cs
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.csproj.CoreCompileInputs.cache
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.dll
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\refint\CartesianCoordinateSystem.dll
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.pdb
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\CartesianCoordinateSystem.genruntimeconfig.cache
+C:\Users\AlumniComp16LAXMISWA\source\repos\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\net6.0\ref\CartesianCoordinateSystem.dll
